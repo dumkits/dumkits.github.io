@@ -1,12 +1,12 @@
 html {
   background-color: #2C2F33;
   color: #b59a21;
+  font-family: "Courier New", monospace;
 }
 .topnav {
   background-color: #333;
   overflow: hidden;
 }
-
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
