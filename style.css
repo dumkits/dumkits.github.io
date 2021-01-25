@@ -28,3 +28,10 @@ html {
   background-color: #4CAF50;
   color: white;
 }
+.featured input:hover{
+  color: rgb(56,10,190);
+  opacity: 0.5;
+}
+.featured input{
+  color: #2C2F33;
+}
